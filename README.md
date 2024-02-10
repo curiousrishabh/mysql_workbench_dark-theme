@@ -1,4 +1,4 @@
-# Mysql Workbench Dark Theme
+# Mysql Workbench 2 Dark Themes
 
 Scintilla colors overwrite to make MySQL Workbench darker than usual.
 
@@ -15,3 +15,5 @@ _/usr/share/mysql-workbench/data/code_editor.xml_
 
 ## Windows:
 _C:\Program Files\MySQL\MySQL Workbench X.X\data\code_editor.xml_
+
+## To Switch to second Theme, Rename file from code_editor2.xml to code_editor.xml and paste on above given path
