@@ -1,1 +1,0 @@
-# mysql_workbench_dark-theme
